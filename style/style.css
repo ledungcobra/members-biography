@@ -34,6 +34,7 @@ a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size:1.5rem;
     
    
 }
@@ -47,7 +48,6 @@ a:hover{
     align-items:center;
     background: linear-gradient(90deg,#790bd9, #9198e5 70.71%);
     text-align:center;
-    margin-bottom: 15px;
     padding:20px 50px;
     color:#DEF5FF;
 
@@ -82,7 +82,7 @@ a:hover{
 .introduction-section{
     width: 80%;
     height: 79%;
-
+    margin-top: 10px;
     padding: 20px 10px;
     display: flex;
     justify-content:space-around;
